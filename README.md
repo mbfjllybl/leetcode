@@ -1,6 +1,6 @@
 # leetcode
 
-> the link of specific problem : ``https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/题目/Solution.java``
+> the link of specific problem : ``https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/{PROBLEM}/Solution.java``
 >
 > the sign of not need to review : :heavy_check_mark:
 >
@@ -9,6 +9,9 @@
 
 | # | Title | Solution | Difficulty | Date | Review |
 | :---: | :---: | :---: | :---: | :---: | ----- |
+| 15 | [15. 3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/threeSum_3sum/Solution.java) | Medium | 2021-11-03 | :heavy_check_mark: |
+| 14 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/longestCommonPrefix/Solution.java) | Easy | 2021-11-03 | :heavy_check_mark: |
+| 13 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/romanToInteger/Solution.java) | Easy | 2021-11-03 | :heavy_check_mark: |
 | 12 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/integerToRoman/Solution.java) | Medium | 2021-11-02 | :heavy_check_mark: |
 | 11 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/containerWithMostWater/Solution.java) | Medium | 2021-11-02 | :heavy_check_mark: |
 | 10 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/regularExpressionMatching/Solution.java) | Hard | 2021-11-02 | :heavy_check_mark: |
