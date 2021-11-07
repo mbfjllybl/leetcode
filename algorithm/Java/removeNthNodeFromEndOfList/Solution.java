@@ -1,4 +1,5 @@
 package Java.removeNthNodeFromEndOfList;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -13,9 +14,18 @@ package Java.removeNthNodeFromEndOfList;
 class ListNode {
     int val;
     ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+
+    ListNode() {
+    }
+
+    ListNode(int val) {
+        this.val = val;
+    }
+
+    ListNode(int val, ListNode next) {
+        this.val = val;
+        this.next = next;
+    }
 }
 
 class Solution {
@@ -26,7 +36,7 @@ class Solution {
             first = first.next;
             n--;
         }
-        while (first.next != null) {
+        while (first != null) {
             first = first.next;
             second = second.next;
         }
