@@ -9,6 +9,12 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
+| 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard | 2021-11-12 |  |
+| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard | 2021-11-12 |  |
+| 40 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSumIi/Solution.java) | Medium | 2021-11-12 | :heavy_multiplication_x: |
+| 39 | [39. Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSum/Solution.java) | Medium | 2021-11-11 | :heavy_check_mark: |
+| 38 | [38. Count and Say](https://leetcode.com/problems/count-and-say) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/countAndSay/Solution.java) | Medium | 2021-11-11 | :heavy_check_mark: |
+| 37 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/sudokuSolver/Solution.java) | Hard | 2021-11-11 | :heavy_check_mark: |
 | 36 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validSudoku/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
 | 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/searchInsertPosition/Solution.java) | Easy | 2021-11-10 | :heavy_check_mark: |
 | 34 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/findFirstAndLastPositionOfElementInSortedArray/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
@@ -16,8 +22,8 @@
 | 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |  |  | 2021-11-09 |  |
 | 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) |  |  | 2021-11-09 |  |
 | 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  |  | 2021-11-08 |  |
-| 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |  |  | 2021-11-08 |  |
-| 28 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr) |  |  | 2021-11-08 |  |
+| 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/divideTwoIntegers/Solution.java) | Medium | 2021-11-08 | :heavy_check_mark: |
+| 28 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/countAndSay/Solution.java) | Easy | 2021-11-08 | :heavy_check_mark: |
 | 27 | [27. Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/removeElement/Solution.java) | Easy | 2021-11-07 | :heavy_check_mark: |
 | 26 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/removeDuplicatesFromSortedArray/Solution.java) | Easy | 2021-11-07 | :heavy_check_mark: |
 | 25 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/reverseNodesInKGroup/Solution.java) | Hard | 2021-11-07 | :heavy_check_mark: |
