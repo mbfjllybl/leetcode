@@ -9,6 +9,12 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
+| 48 | [48. Rotate Image](https://leetcode.com/problems/rotate-image) |  | Medium | 2021-11-14 | :heavy_check_mark: |
+| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii) |  | Medium | 2021-11-14 | :heavy_multiplication_x: |
+| 46 | [46. Permutations](https://leetcode.com/problems/permutations) |  | Medium | 2021-11-14 | :heavy_check_mark: |
+| 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) |  | Medium | 2021-11-13 |  |
+| 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |  | Hard | 2021-11-13 |  |
+| 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | Medium | 2021-11-13 |  |
 | 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard | 2021-11-12 |  |
 | 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard | 2021-11-12 |  |
 | 40 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSumIi/Solution.java) | Medium | 2021-11-12 | :heavy_multiplication_x: |
