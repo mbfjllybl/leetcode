@@ -9,11 +9,17 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
-| 48 | [48. Rotate Image](https://leetcode.com/problems/rotate-image) |  | Medium | 2021-11-14 | :heavy_check_mark: |
-| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii) |  | Medium | 2021-11-14 | :heavy_multiplication_x: |
-| 46 | [46. Permutations](https://leetcode.com/problems/permutations) |  | Medium | 2021-11-14 | :heavy_check_mark: |
-| 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) |  | Medium | 2021-11-13 |  |
-| 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |  | Hard | 2021-11-13 |  |
+| 54 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/spiralMatrix/Solution.java) | Medium | 2021-11-16 | :heavy_check_mark: |
+| 53 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/maximumSubarray/Solution.java) | Easy | 2021-11-16 | :heavy_check_mark: |
+| 52 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii) |  | Hard | 2021-11-16 |  |
+| 51 | [51. N-Queens](https://leetcode.com/problems/n-queens) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/nQueens/Solution.java) | Hard | 2021-11-15 | :heavy_check_mark: |
+| 50 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/powxN/Solution.java) | Medium | 2021-11-15 | :heavy_check_mark: |
+| 49 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  | Medium | 2021-11-15 |  |
+| 48 | [48. Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/rotateImage/Solution.java) | Medium | 2021-11-14 | :heavy_check_mark: |
+| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/permutationsIi/Solution.java) | Medium | 2021-11-14 | :heavy_multiplication_x: |
+| 46 | [46. Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/permutations/Solution.java) | Medium | 2021-11-14 | :heavy_check_mark: |
+| 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/jumpGameIi/Solution.java) | Medium | 2021-11-13 | :heavy_check_mark: |
+| 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/wildcardMatching/Solution.java) | Hard | 2021-11-13 | :heavy_check_mark: |
 | 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | Medium | 2021-11-13 |  |
 | 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard | 2021-11-12 |  |
 | 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard | 2021-11-12 |  |
@@ -24,10 +30,10 @@
 | 36 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validSudoku/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
 | 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/searchInsertPosition/Solution.java) | Easy | 2021-11-10 | :heavy_check_mark: |
 | 34 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/findFirstAndLastPositionOfElementInSortedArray/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
-| 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |  |  | 2021-11-09 |  |
-| 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |  |  | 2021-11-09 |  |
-| 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) |  |  | 2021-11-09 |  |
-| 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  |  | 2021-11-08 |  |
+| 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |  | Medium | 2021-11-09 |  |
+| 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |  | Hard | 2021-11-09 |  |
+| 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) |  | Medium | 2021-11-09 |  |
+| 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  | Hard | 2021-11-08 |  |
 | 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/divideTwoIntegers/Solution.java) | Medium | 2021-11-08 | :heavy_check_mark: |
 | 28 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/countAndSay/Solution.java) | Easy | 2021-11-08 | :heavy_check_mark: |
 | 27 | [27. Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/removeElement/Solution.java) | Easy | 2021-11-07 | :heavy_check_mark: |
