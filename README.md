@@ -9,18 +9,21 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
+| 57 | [57. Insert Interval](https://leetcode.com/problems/insert-interval) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/insertInterval/Solution.java) | Medium | 2021-11-17 | :heavy_check_mark: |
+| 56 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/mergeIntervals/Solution.java) | Medium | 2021-11-17 | :heavy_check_mark: |
+| 55 | [55. Jump Game](https://leetcode.com/problems/jump-game) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/jumpGame/Solution.java) | Medium | 2021-11-17 | :heavy_check_mark: |
 | 54 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/spiralMatrix/Solution.java) | Medium | 2021-11-16 | :heavy_check_mark: |
 | 53 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/maximumSubarray/Solution.java) | Easy | 2021-11-16 | :heavy_check_mark: |
-| 52 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii) |  | Hard | 2021-11-16 |  |
+| 52 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/nQueensIi/Solution.java) | Hard | 2021-11-16 | :heavy_check_mark: |
 | 51 | [51. N-Queens](https://leetcode.com/problems/n-queens) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/nQueens/Solution.java) | Hard | 2021-11-15 | :heavy_check_mark: |
 | 50 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/powxN/Solution.java) | Medium | 2021-11-15 | :heavy_check_mark: |
-| 49 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  | Medium | 2021-11-15 |  |
+| 49 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/groupAnagrams/Solution.java) | Medium | 2021-11-15 | :heavy_multiplication_x: |
 | 48 | [48. Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/rotateImage/Solution.java) | Medium | 2021-11-14 | :heavy_check_mark: |
 | 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/permutationsIi/Solution.java) | Medium | 2021-11-14 | :heavy_multiplication_x: |
 | 46 | [46. Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/permutations/Solution.java) | Medium | 2021-11-14 | :heavy_check_mark: |
 | 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/jumpGameIi/Solution.java) | Medium | 2021-11-13 | :heavy_check_mark: |
 | 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/wildcardMatching/Solution.java) | Hard | 2021-11-13 | :heavy_check_mark: |
-| 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | Medium | 2021-11-13 |  |
+| 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/multiplyStrings/Solution.java) | Medium | 2021-11-13 | :heavy_check_mark: |
 | 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard | 2021-11-12 |  |
 | 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard | 2021-11-12 |  |
 | 40 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSumIi/Solution.java) | Medium | 2021-11-12 | :heavy_multiplication_x: |
