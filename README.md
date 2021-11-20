@@ -9,6 +9,9 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
+| 66 | [66. Plus One](https://leetcode.com/problems/plus-one) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/plusOne/Solution.java) | Easy | 2021-11-20 | :heavy_check_mark: |
+| 65 | [65. Valid Number](https://leetcode.com/problems/valid-number) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validNumber/Solution.java) | Hard | 2021-11-20 | :heavy_check_mark: |
+| 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/minimumPathSum/Solution.java) | Medium | 2021-11-20 | :heavy_check_mark: |
 | 63 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/uniquePathsIi/Solution.java) | Medium | 2021-11-19 | :heavy_check_mark: |
 | 62 | [62. Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/uniquePaths/Solution.java) | Medium | 2021-11-19 | :heavy_check_mark: |
 | 61 | [61. Rotate List](https://leetcode.com/problems/rotate-list) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/rotateList/Solution.java) | Medium | 2021-11-19 | :heavy_check_mark: |
