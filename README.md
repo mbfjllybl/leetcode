@@ -9,6 +9,15 @@
 
 | # |                                                               Title                                                               |                                                             Solution                                                             | Difficulty |    Date    | Review                   |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----------: | -------------------------- |
+| 75 | [75. Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/sortColors/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
+| 74 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/searchA2dMatrix/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
+| 73 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/setMatrixZeroes/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
+| 72 | [72. Edit Distance](https://leetcode.com/problems/edit-distance) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
+| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
+| 70 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
+| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
+| 68 | [68. Text Justification](https://leetcode.com/problems/text-justification) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
+| 67 | [67. Add Binary](https://leetcode.com/problems/add-binary) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
 | 66 | [66. Plus One](https://leetcode.com/problems/plus-one) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/plusOne/Solution.java) | Easy | 2021-11-20 | :heavy_check_mark: |
 | 65 | [65. Valid Number](https://leetcode.com/problems/valid-number) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validNumber/Solution.java) | Hard | 2021-11-20 | :heavy_check_mark: |
 | 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/minimumPathSum/Solution.java) | Medium | 2021-11-20 | :heavy_check_mark: |
@@ -33,8 +42,8 @@
 | 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/jumpGameIi/Solution.java) | Medium | 2021-11-13 | :heavy_check_mark: |
 | 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/wildcardMatching/Solution.java) | Hard | 2021-11-13 | :heavy_check_mark: |
 | 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/multiplyStrings/Solution.java) | Medium | 2021-11-13 | :heavy_check_mark: |
-| 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard | 2021-11-12 |  |
-| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard | 2021-11-12 |  |
+| 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Hard | 2021-11-12 |  |
+| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Hard | 2021-11-12 |  |
 | 40 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSumIi/Solution.java) | Medium | 2021-11-12 | :heavy_multiplication_x: |
 | 39 | [39. Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/combinationSum/Solution.java) | Medium | 2021-11-11 | :heavy_check_mark: |
 | 38 | [38. Count and Say](https://leetcode.com/problems/count-and-say) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/countAndSay/Solution.java) | Medium | 2021-11-11 | :heavy_check_mark: |
@@ -42,10 +51,10 @@
 | 36 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validSudoku/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
 | 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/searchInsertPosition/Solution.java) | Easy | 2021-11-10 | :heavy_check_mark: |
 | 34 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/findFirstAndLastPositionOfElementInSortedArray/Solution.java) | Medium | 2021-11-10 | :heavy_check_mark: |
-| 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |  | Medium | 2021-11-09 |  |
-| 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |  | Hard | 2021-11-09 |  |
-| 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) |  | Medium | 2021-11-09 |  |
-| 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  | Hard | 2021-11-08 |  |
+| 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Medium | 2021-11-09 |  |
+| 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Hard | 2021-11-09 |  |
+| 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Medium | 2021-11-09 |  |
+| 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) | Hard | 2021-11-08 |  |
 | 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/divideTwoIntegers/Solution.java) | Medium | 2021-11-08 | :heavy_check_mark: |
 | 28 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/countAndSay/Solution.java) | Easy | 2021-11-08 | :heavy_check_mark: |
 | 27 | [27. Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/removeElement/Solution.java) | Easy | 2021-11-07 | :heavy_check_mark: |
