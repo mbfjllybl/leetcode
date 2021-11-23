@@ -12,12 +12,12 @@
 | 75 | [75. Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/sortColors/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
 | 74 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/searchA2dMatrix/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
 | 73 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/setMatrixZeroes/Solution.java) | Medium | 2021-11-23 | :heavy_check_mark: |
-| 72 | [72. Edit Distance](https://leetcode.com/problems/edit-distance) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
-| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
-| 70 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-22 |  |
-| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
-| 68 | [68. Text Justification](https://leetcode.com/problems/text-justification) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
-| 67 | [67. Add Binary](https://leetcode.com/problems/add-binary) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java//Solution.java) |  | 2021-11-21 |  |
+| 72 | [72. Edit Distance](https://leetcode.com/problems/edit-distance) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/editDistance/Solution.java) | Hard | 2021-11-22 | :heavy_check_mark: |
+| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/simplifyPath/Solution.java) | Medium | 2021-11-22 | :heavy_check_mark: |
+| 70 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/climbingStairs/Solution.java) | Easy | 2021-11-22 | :heavy_check_mark: |
+| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/sqrtx/Solution.java) | Easy | 2021-11-21 | :heavy_check_mark: |
+| 68 | [68. Text Justification](https://leetcode.com/problems/text-justification) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/textJustification/Solution.java) | Hard | 2021-11-21 | :heavy_check_mark: |
+| 67 | [67. Add Binary](https://leetcode.com/problems/add-binary) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/addBinary/Solution.java) | Easy | 2021-11-21 | :heavy_check_mark: |
 | 66 | [66. Plus One](https://leetcode.com/problems/plus-one) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/plusOne/Solution.java) | Easy | 2021-11-20 | :heavy_check_mark: |
 | 65 | [65. Valid Number](https://leetcode.com/problems/valid-number) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/validNumber/Solution.java) | Hard | 2021-11-20 | :heavy_check_mark: |
 | 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Java](https://github.com/mbfjllybl/leetcode/blob/master/algorithm/Java/minimumPathSum/Solution.java) | Medium | 2021-11-20 | :heavy_check_mark: |
