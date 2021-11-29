@@ -1,16 +1,11 @@
 package Java.removeDuplicatesFromSortedList;
 
 /**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
+ * @author mbfjllybl
+ * @version 1.0
+ * @description: TODO
+ * @date 2021/11/27 下午9:41
  */
-
 
 class ListNode {
     int val;
