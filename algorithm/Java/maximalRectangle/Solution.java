@@ -1,34 +1,44 @@
 package Java.maximalRectangle;
 
+import java.util.Stack;
+
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if (matrix.length == 0) return 0;
         int n = matrix.length, m = matrix[0].length;
-        int[][] sum = new int[n + 1][m + 1];
-        for (int i = 0; i < n; i++)
+        int[][] heights = new int[n][m];
+        for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                add(sum, i + 1, j + 1, matrix[i][j]);
+                if (i == 0) heights[i][j] = matrix[i][j] == '1' ? 1 : 0;
+                else heights[i][j] = matrix[i][j] == '1' ? 1 + heights[i - 1][j] : 0;
             }
+        }
         int res = 0;
-        for (int i = 1; i <= n; i++)
-            for (int j = 1; j <= m; j++)
-                for (int p = 1; p <= i; p++)
-                    for (int q = 1; q <= j; q++) {
-                        int count = (Math.abs(i - p) + 1) * (Math.abs(j - q) + 1);
-                        if (count == get(sum, p, q, i, j)) {
-                            res = Math.max(res, count);
-                        }
-                    }
+        for (int i = 0; i < n ; i++) res = Math.max(res, judge(heights[i]));
         return res;
     }
 
-    private void add(int[][] sum, int i, int j, char matrix) {
-        int x = 0;
-        if (matrix == '0') x = 0;
-        else x = 1;
-        sum[i][j] = x + sum[i - 1][j] + sum[i][j - 1] - sum[i - 1][j - 1];
-    }
-
-    private int get(int[][] sum, int x1, int y1, int x2, int y2) {
-        return sum[x2][y2] - sum[x2][y1 - 1] - sum[x1 - 1][y2] + sum[x1 - 1][y1 - 1];
+    private int judge(int[] height) {
+        Stack<Integer> stack1 = new Stack<>();
+        Stack<Integer> stack2 = new Stack<>();
+        int n = height.length;
+        int[] tmp = new int[n];
+        for (int i = 0; i < n; i++) {
+            while (!stack1.empty() && height[stack1.peek()] >= height[i]) stack1.pop();
+            if (stack1.empty()) tmp[i] = 0;
+            else tmp[i] = stack1.peek() + 1;
+            stack1.push(i);
+        }
+        int res = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            while (!stack2.empty() && height[stack2.peek()] >= height[i]) stack2.pop();
+            if (stack2.empty()) {
+                res = Math.max(res, height[i] * (n - 1 - tmp[i] + 1));
+            } else {
+                res = Math.max(res, height[i] * (stack2.peek() - 1 - tmp[i] + 1));
+            }
+            stack2.push(i);
+        }
+        return res;
     }
 }
